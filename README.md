@@ -1,0 +1,6 @@
+- I’m @jinkoph03nix
+- Pronouns: they/them
+- Hobbies: programming, digital art, sewing, D&D
+- Languages: 
+   - Spoken: English, Spanish
+   - Programming: Java, C++, C#, Python
