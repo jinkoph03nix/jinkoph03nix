@@ -3,4 +3,4 @@
 - Hobbies: programming, digital art, sewing, D&D
 - Languages: 
    - Spoken: English, Spanish
-   - Programming: Java, C++, C#, Python
+   - Programming: Java, C++, C#, Python, Assembly (NASM)
